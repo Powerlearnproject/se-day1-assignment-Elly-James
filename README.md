@@ -128,5 +128,6 @@ Optimizes Results: Helps in obtaining the desired output efficiently.
 2. Example of Vague vs. Improved Prompt
 Vague Prompt: "Tell me about technology."
 Improved Prompt: "Explain how cloud computing technology can benefit small businesses in terms of cost savings and scalability."
+
 Explanation: The improved prompt is more specific and focused. It clearly defines the scope (cloud computing technology), the target audience (small businesses), and the aspects of interest (cost savings and scalability). This clarity helps the AI provide a more targeted and useful response.
 
