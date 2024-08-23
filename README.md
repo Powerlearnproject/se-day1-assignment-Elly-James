@@ -118,6 +118,7 @@ Part 2: Introduction to AI and Prompt Engineering
 1. What is Prompt Engineering?
 Prompt Engineering involves designing and refining prompts to interact effectively with AI models. It is crucial for getting accurate and relevant responses from AI systems, especially in natural language processing.
 
+
 Importance:
 
 Improves AI Performance: Well-crafted prompts lead to more accurate and useful responses.
